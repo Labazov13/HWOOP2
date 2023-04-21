@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74506920-d68e-42ed-9419-916c3f79f20d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FlyAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Herbivores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SayAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SpeedSwimAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WalkAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Amphibians.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Invertebrates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/PoisonAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Reptiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/SayAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Scorpion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exam2/Terrarium.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ObmU2Wnin0rDv05bgS9GxjfgIh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/Programming/SeminarOOP/Seminar2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.org.example.exam2.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Seminar2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.exam2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exam2.Main" />
+      <module name="Seminar2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.exam2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.exam2.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74506920-d68e-42ed-9419-916c3f79f20d" name="Changes" comment="" />
+      <created>1681837697192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681837697192</updated>
+    </task>
+    <servers />
+  </component>
+</project>
